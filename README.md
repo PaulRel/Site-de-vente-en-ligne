@@ -7,7 +7,7 @@ Assurez-vous d'avoir installé :
 - Java version 17
 - Javafx
 - MySQL
-- 
+
 Télécharger le dossier Site.zip en local.
 
 Executer les scripts create_database.sql et insert_data (que vous trouverez dans le dossier doc) pour créer et insérer les données dans la base de données.
